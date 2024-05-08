@@ -1,5 +1,6 @@
 <template>
-    <div class="h-64 dark:text-slate-200">
+    <div class="h-24 dark:text-slate-200">
+     
   <header
     class="container mx-auto flex w-full items-center justify-between py-4 px-6"
   >
@@ -7,8 +8,9 @@
       <div
         class="w-full text-center text-lg font-extrabold sm:w-fit sm:text-left"
       >
-        <span class="text-violet-500">Unique</span>
-        <span class="dark:text-slate-400">Fund</span>
+      
+        <span class="text-orange-500">Sina </span>
+        <span class="dark:text-slate-400">Leather</span>
       </div>
     </a>
     <nav class="hidden bg-white text-base dark:bg-slate-900 sm:block">
@@ -24,9 +26,9 @@
         <li class="group relative">
           <a
             class="block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-            href="#"
+            href="/Products"
           >
-            Solutions
+            Products
           </a>
           <ul
             class="invisible absolute z-30 space-y-2 rounded-lg border border-slate-50 bg-white p-4 opacity-0 shadow-xl transition-opacity delay-75 ease-in-out group-hover:visible group-hover:opacity-100 dark:border-slate-800 dark:bg-slate-900"
@@ -34,33 +36,33 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="#"
+                href="pages/Products"
               >
-                Business Line of Credit
+                handbags
               </a>
             </li>
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="#"
+                href="pages/Products"
               >
-                SBA Loan
+                laptop bags
               </a>
             </li>
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="#"
+                href="pages/Products"
               >
-                Revenue Based Financing
+                Shoes
               </a>
             </li>
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="#"
+                href="pages/Products"
               >
-                Invoice Factoring
+                Accessories
               </a>
             </li>
           </ul>
@@ -68,7 +70,7 @@
         <li class="group relative">
           <a
             class="block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-            href="/about"
+            href="pages/About.vue"
           >
             About
           </a>
@@ -76,7 +78,7 @@
         <li class="group relative">
           <a
             class="block whitespace-nowrap px-2 py-2 text-sm text-slate-900 no-underline transition hover:text-slate-900 dark:text-slate-50 dark:hover:text-slate-50"
-            href="/contact"
+            href="pages/Contact.vue"
           >
             Contact
           </a>
@@ -139,9 +141,9 @@
         <li class="group relative w-full overflow-x-visible text-right">
           <a
             class="mx-4 block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-            href="#"
+            href="/Products"
           >
-            Solutions
+            Products
           </a>
           <ul
             class="h-0 space-y-2 overflow-y-hidden bg-slate-50 px-4 py-0 transition-all delay-75 ease-in-out group-hover:h-full group-hover:py-4 dark:bg-slate-800"
@@ -151,7 +153,7 @@
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
                 href="#"
               >
-                Business Line of Credit
+                Handbags
               </a>
             </li>
             <li>
@@ -191,8 +193,7 @@
         <li class="group relative w-full overflow-x-visible text-right">
           <a
             class="mx-4 block whitespace-nowrap px-2 py-2 text-sm text-slate-900 no-underline transition hover:text-slate-900 dark:text-slate-50 dark:hover:text-slate-50"
-            href="/contact"
-          >
+            href="/Contact">
             Contact
           </a>
         </li>
