@@ -1,4 +1,5 @@
 <template>
+    <h1 class="mb-12 text-5xl font-extrabold leading-tight dark:text-slate-50 sm:text-6xl m-16"> Our products</h1>
     
 <div class = " mx-auto flex w-fit flex-col space-y-4 sm:flex-row sm:space-y-auto sm:space-x-auto">
 

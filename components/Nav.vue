@@ -36,7 +36,7 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="pages/Products"
+                href="/Products"
               >
                 handbags
               </a>
@@ -44,7 +44,7 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="pages/Products"
+                href="/Products"
               >
                 laptop bags
               </a>
@@ -52,7 +52,7 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="pages/Products"
+                href="/Products"
               >
                 Shoes
               </a>
@@ -60,7 +60,7 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="pages/Products"
+                href="/Products"
               >
                 Accessories
               </a>
@@ -70,7 +70,7 @@
         <li class="group relative">
           <a
             class="block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-            href="pages/About.vue"
+            href="/About"
           >
             About
           </a>
@@ -78,9 +78,17 @@
         <li class="group relative">
           <a
             class="block whitespace-nowrap px-2 py-2 text-sm text-slate-900 no-underline transition hover:text-slate-900 dark:text-slate-50 dark:hover:text-slate-50"
-            href="pages/Contact.vue"
+            href="/Contact"
           >
             Contact
+          </a>
+        </li>
+        <li class="group relative">
+          <a
+            class="block whitespace-nowrap px-2 py-2 text-sm text-slate-900 no-underline transition hover:text-slate-900 dark:text-slate-50 dark:hover:text-slate-50"
+            href="/Blog"
+          >
+            Blog
           </a>
         </li>
       </ul>
@@ -151,7 +159,7 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="#"
+                href="/Products"
               >
                 Handbags
               </a>
@@ -159,7 +167,7 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="#"
+                href="/Products"
               >
                 SBA Loan
               </a>
@@ -167,7 +175,7 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="#"
+                href="/Products"
               >
                 Revenue Based Financing
               </a>
@@ -175,7 +183,7 @@
             <li>
               <a
                 class="undefined block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-                href="#"
+                href="/Products"
               >
                 Invoice Factoring
               </a>
@@ -185,7 +193,7 @@
         <li class="group relative w-full overflow-x-visible text-right">
           <a
             class="mx-4 block whitespace-nowrap px-2 py-2 text-sm text-slate-400 no-underline transition hover:text-slate-900 dark:hover:text-slate-50"
-            href="/about"
+            href="/About"
           >
             About
           </a>
@@ -195,6 +203,13 @@
             class="mx-4 block whitespace-nowrap px-2 py-2 text-sm text-slate-900 no-underline transition hover:text-slate-900 dark:text-slate-50 dark:hover:text-slate-50"
             href="/Contact">
             Contact
+          </a>
+        </li>
+          <li class="group relative w-full overflow-x-visible text-right">
+          <a
+            class="mx-4 block whitespace-nowrap px-2 py-2 text-sm text-slate-900 no-underline transition hover:text-slate-900 dark:text-slate-50 dark:hover:text-slate-50"
+            href="/Blog">
+            Blog
           </a>
         </li>
       </ul>

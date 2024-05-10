@@ -1,4 +1,5 @@
 <template>
+  <h1 class="mb-12 text-5xl font-extrabold leading-tight dark:text-slate-50 sm:text-6xl m-16"> Welcome to Sina Leather</h1>
     <div  class="mx-auto flex-row flex w-fit flex-col py-8">
       <img src="public/Zara Bags _ Zara Backpack _ Color_ Gray _ Size_ Os.jpg" />
       </div>
